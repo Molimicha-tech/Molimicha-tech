@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at NJUST. <img align="right" src="https://github-readme-stats.vercel.app/api?username=LiangTIAN&show_icons=true&icon_color=blue&text_color=718096&bg_color=ffffff&hide_title=true">
 - 🌱 I’m currently learning NLP!
 - 💬 I’m interested in scientometrics and text mining！
-- 📫 How to reach me: liangtian2510@gamil.com
+- 📫 How to reach me: liangtian2510@163.com
 - ⚡ Fun fact: 温润如玉 卑以自牧
